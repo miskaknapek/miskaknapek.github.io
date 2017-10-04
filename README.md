@@ -1,3 +1,6 @@
+title: Welcome to the process of me learning to make github pages… 
+description: well, I'm learning this github thing… 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/miskaknapek/miskaknapek.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
